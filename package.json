@@ -8,6 +8,9 @@
     "type": "git",
     "url": "https://github.com/ralphtheninja/lts-schedule.git"
   },
+  "scripts": {
+    "get-latest-schedule": "wget -q https://raw.githubusercontent.com/nodejs/LTS/master/schedule.json -O schedule.json"
+  },
   "author": "Lars-Magnus Skog <ralphtheninja@riseup.net>",
   "keywords": [
     "lts",
