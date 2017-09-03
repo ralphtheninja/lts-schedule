@@ -1,0 +1,18 @@
+{
+  "name": "lts-schedule",
+  "version": "0.0.0",
+  "description": "The LTS schedule in JSON. Extracted from https://github.com/nodejs/LTS",
+  "main": "schedule.json",
+  "homepage": "https://github.com/ralphtheninja/lts-schedule",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ralphtheninja/lts-schedule.git"
+  },
+  "author": "Lars-Magnus Skog <ralphtheninja@riseup.net>",
+  "keywords": [
+    "lts",
+    "schedule",
+    "json"
+  ],
+  "license": "MIT"
+}
