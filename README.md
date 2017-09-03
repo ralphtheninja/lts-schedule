@@ -17,7 +17,7 @@ console.log(JSON.stringify(schedule.v8, null, 2))
 
 Yields:
 
-```
+```json
 {
   "start": "2017-05-30",
   "lts": "2017-10-31",
