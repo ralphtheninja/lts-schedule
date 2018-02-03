@@ -2,6 +2,10 @@
 
 > The node.js LTS schedule in JSON for programmatic usage
 
+![Node version](https://img.shields.io/node/v/lts-schedule.svg)
+[![Build Status](https://travis-ci.org/ralphtheninja/lts-schedule.svg?branch=master)](https://travis-ci.org/ralphtheninja/lts-schedule)
+[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+
 ## Install
 
 ```
