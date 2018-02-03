@@ -2,7 +2,7 @@
   "name": "lts-schedule",
   "version": "1.0.1",
   "description": "The LTS schedule in JSON. Extracted from https://github.com/nodejs/LTS",
-  "main": "schedule.json",
+  "main": "index.js",
   "homepage": "https://github.com/ralphtheninja/lts-schedule",
   "repository": {
     "type": "git",
@@ -17,5 +17,8 @@
     "schedule",
     "json"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "tape": "^4.8.0"
+  }
 }
