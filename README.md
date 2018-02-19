@@ -1,5 +1,7 @@
 # lts-schedule
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ralphtheninja/lts-schedule.svg)](https://greenkeeper.io/)
+
 > The node.js LTS schedule in JSON for programmatic usage
 
 ![Node version](https://img.shields.io/node/v/lts-schedule.svg)
