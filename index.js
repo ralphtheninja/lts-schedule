@@ -31,6 +31,5 @@ const isEOL = version => {
   return new Date() > new Date(meta.end)
 }
 
-
 exports.json = json
 exports.isEOL = isEOL
